@@ -1,0 +1,25 @@
+body {
+	background-color: red;
+	
+	}
+	
+h1 {
+		font-size: 40pt;
+		color: white;
+		background-color: pink;
+	
+
+}
+
+p{
+	color:black;
+	
+	font-weight: bold;
+	font-size: 20pt;
+	position: absolute;
+	
+}
+
+#canvas {
+background-color:white;
+border: 1px solid gray;}
